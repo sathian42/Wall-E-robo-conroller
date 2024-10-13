@@ -1,0 +1,66 @@
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/speech1"
+        android:title="greetings 1"/>
+
+    <item
+        android:id="@+id/speech2"
+        android:title="greeting 2"/>
+
+    <item
+        android:id="@+id/hello"
+        android:title="Hello"/>
+    <item
+        android:id="@+id/no"
+        android:title="No"/>
+
+    <item
+        android:id="@+id/Thankyou"
+        android:title="Thankyou"/>
+
+
+    <item
+        android:id="@+id/eva"
+        android:title="eva"/>
+
+    <item
+        android:id="@+id/Yes"
+        android:title="yes"/>
+
+    <item
+        android:id="@+id/sad"
+        android:title="sad"/>
+
+    <item
+        android:id="@+id/welcome"
+        android:title="welcome"/>
+
+    <item
+        android:id="@+id/idk"
+        android:title="i dont know"/>
+
+    <item
+        android:id="@+id/gm"
+        android:title="good morning"/>
+
+    <item
+        android:id="@+id/ge"
+        android:title="good evening"/>
+
+    <item
+        android:id="@+id/ga"
+        android:title="good afternoon"/>
+
+    <item
+        android:id="@+id/exm"
+        android:title="Excuseme"/>
+
+
+    <item
+        android:id="@+id/help"
+        android:title="help you"/>
+
+
+</menu>
