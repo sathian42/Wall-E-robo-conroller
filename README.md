@@ -5,7 +5,7 @@ you can customize commands in mainactivity file
 
 i made this as reote for my esp8266 Wall-E Robot 
 
-embedded c code for esp8266 is here :
+embedded c code for esp8266 is here : https://github.com/sathian42/Wall-E-Robot-prototype
 
 hacksterIO link
 
